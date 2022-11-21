@@ -1,0 +1,9 @@
+/*  this is the simple progream */
+#include<stdio.h>
+int main()
+{
+  printf("hello world");
+  return 0;
+}
+
+/*  this is the simple progream */
